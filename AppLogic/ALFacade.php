@@ -11,4 +11,5 @@ class ALFacade {
         $inv = new InventoryManager(); 
         return $inv->updateStock();
     }
+
 }
